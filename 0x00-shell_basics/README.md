@@ -1,1 +1,1 @@
-readme of proget
+script doing
